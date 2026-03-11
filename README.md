@@ -82,6 +82,10 @@ API integration with Retrofit
 Navigation Compose
 Building modern reactive Android apps
 
+## 📥 Download APK :-
+Download the latest APK from the Releases section:
+https://github.com/SouravKarar12/MyRecipeApp-JetpackCompose/releases/tag/v1.0
+
 👨‍💻 Author :-
 Sourav Karar
 Android Developer
